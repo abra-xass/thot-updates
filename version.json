@@ -1,7 +1,7 @@
 {
   "versionCode": 6,
   "versionName": "0.6",
-  "apkUrl": "https://raw.githubusercontent.com/abra-xass/thot-updates/main/downloads/thot.apk",
+  "apkUrl": "https://github.com/abra-xass/thot-updates/releases/download/0.6/thot.apk",
   "changelog": "Initial public update feed.",
   "mandatory": false
 }
